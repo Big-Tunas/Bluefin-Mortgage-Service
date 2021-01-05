@@ -17,7 +17,7 @@
     "start": "pm2 start index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.7",
     "core-decorators": "^0.20.0",
     "express": "^4.17.1",
